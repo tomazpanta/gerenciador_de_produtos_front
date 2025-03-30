@@ -20,7 +20,7 @@ const Navbar = () => {
     <nav className="menu">
         <div className="logo-container">
         <Link to="/"> 
-            <img src="./public/img/PRODUCT-manager-logo.png" alt="Logo do Sistema" className="logo-img" />
+            <img src="./public/RODUCT-manager-logo.png" alt="Logo do Sistema" className="logo-img" />
         </Link>
         </div>
         <div className="menu-links">
